@@ -3,3 +3,6 @@
 - [fzf](https://github.com/junegunn/fzf)
 - [tmux](https://github.com/tmux/tmux/wiki)
 
+# Funny
+
+- [nyancat](https://github.com/klange/nyancat)
