@@ -7,6 +7,7 @@
 - [direnv](https://github.com/direnv/direnv)
 - [fzf](https://github.com/junegunn/fzf)
 - [tmux](https://github.com/tmux/tmux/wiki)
+- [ep](https://github.com/bcongdon/ep): emoji picker for the terminal.
 
 # Funny
 
